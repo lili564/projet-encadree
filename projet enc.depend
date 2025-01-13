@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1736602848 source:c:\users\lina\desktop\final project\projet enc\main.c
+	<stdio.h>
+	<string.h>
+	"CSV.h"
+
+1736605651 c:\users\lina\desktop\final project\projet enc\csv.h
+
